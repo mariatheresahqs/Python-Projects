@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+print("Bem vind@ ao MAD LIBS GAME!")
+profissao = input("Digite uma profissão: ")
+qualidade = input("Digite um adjetivo: ")
+animal = input("Digite o nome de um animal: ")
+celebridade = input("Digite o nome de uma celebridade: ")
+eletrodomestico = input("Digite o nome de um eletrodoméstico: ")
+print()
+print("Dicas sábias do MAD LIBS GAME pra você!")
+print(f"De {profissao} e {qualidade}, todo mundo tem um pouco")
+print(f'Filho de peixe, {animal} é')
+print(f'Mente vazia, oficina do {celebridade}')
+print(f'Por ele eu ponho minha mão no {eletrodomestico}')
